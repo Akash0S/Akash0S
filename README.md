@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Akash, a Machine Learning student at NorQuest College, Edmonton.
 
-<!--
-**Akash0S/Akash0S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🔍 Passionate about solving real-world problems with data and machine learning.
+🛠 Skilled in data preprocessing, exploratory data analysis, and building machine learning models.
+📊 Experienced in working with public and private datasets like Netflix movie data, Islamic food hamper dataset, and more.
 
-Here are some ideas to get you started:
+Interests
+🤖 Machine Learning and Artificial Intelligence
+📈 Data Science and Predictive Analytics
+🌐 Exploring innovative tech solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals
+🚀 Sharpen my skills in machine learning and contribute to impactful projects.
+🤝 Collaborate on open-source projects and connect with the data science community.
+💡 Always curious, always learning!
